@@ -112,9 +112,15 @@
 > 这个区块会在接上 WakaTime 之后自动更新。
 
 <!--START_SECTION:waka-->
+
 ```txt
-施工中……等我把 WakaTime 和 GitHub Action 接好，这里就会自己动起来。
+From: 02 April 2026 - To: 09 April 2026
+
+Total Time: 0 secs
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ## GitHub 面板

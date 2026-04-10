@@ -115,8 +115,10 @@
 
 ## GitHub 面板
 
-这块我准备接 `lowlighter/metrics`。  
-等我把 token 和 Action 配好之后，这里会换成自动更新的面板，不会一直空着的（
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="49%" />
+  <img src="./metrics.plugin.languages.svg" alt="Most Used Languages" width="49%" />
+</p>
 
 ## 今日冷笑话
 

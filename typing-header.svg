@@ -55,9 +55,9 @@
   <rect class="bg" x="0" y="0" width="1150" height="166" rx="8" />
 
   <g clip-path="url(#clip-line-1)" filter="url(#ember-glow)">
-    <text class="line line-shadow" x="107.8" y="71.1">When you truly want something</text>
-    <text class="line line-under" x="106" y="69.2">When you truly want something</text>
-    <text class="line line-main" x="104.6" y="68">When you truly want something</text>
+    <text class="line line-shadow" x="107.8" y="71.1">When you truly want something, </text>
+    <text class="line line-under" x="106" y="69.2">When you truly want something, </text>
+    <text class="line line-main" x="104.6" y="68">When you truly want something, </text>
   </g>
 
   <g clip-path="url(#clip-line-2)" filter="url(#ember-glow)">

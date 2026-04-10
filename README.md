@@ -100,7 +100,11 @@
 > 这块准备接自动同步。等我把 RSS 喂好之后，它就会自己长出来。
 
 <!-- BLOG-POST-LIST:START -->
-- 施工中……先让我把博客的 feed 接上（
+- [更新说明](https://acha.xx.kg/2026/03/29/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E%202026.3.29/)
+- [更新说明](https://acha.xx.kg/2026/03/11/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E%202026.3.11/)
+- [收拾，整理，以及翻新...](https://acha.xx.kg/2026/03/08/%E6%94%B6%E6%8B%BE%EF%BC%8C%E6%95%B4%E7%90%86%EF%BC%8C%E4%BB%A5%E5%8F%8A%E7%BF%BB%E6%96%B0/)
+- [新年快乐！！](https://acha.xx.kg/2024/12/31/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%81/)
+- [阿猹的自我介绍&amp;第一篇个人博客！](https://acha.xx.kg/2024/12/29/%E9%98%BF%E7%8C%B9%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D-%E7%AC%AC%E4%B8%80%E7%AF%87%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 这周代码时间扔哪去了

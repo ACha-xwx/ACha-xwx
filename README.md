@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=250&color=7AA2F7&center=true&vCenter=true&width=900&height=60&lines=When+you+truly+want+something;All+the+universe+conspires+to+help+you+finish+it."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2300&pause=80&color=7AA2F7&center=true&vCenter=true&multiline=true&width=900&height=90&lines=When+you+truly+want+something;All+the+universe+conspires+to+help+you+finish+it."
     alt="Typing SVG"
   />
 </p>

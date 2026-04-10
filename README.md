@@ -85,7 +85,7 @@
 - 从 `2020.03.15` 开始认真接触音乐制作，最早是从 `Undertale` Remix 和同人曲一路摸进来的。
 - 主要写 `EDM`，尤其喜欢 `Uplifting Trance`、`Progressive House`、`House`、`Melodic Bass`、`Liquid Drum 'n Bass` 和 `Euphoric Hardstyle`。
 - 有时候也会研究管弦编排，偶尔尝试写一点日文歌词。
-- 代表作和方向包括 `Daybreak`、`Drown in Abyss`，以及那首一口气混了四种风格的新年曲`Dream Voyager`。
+- 代表作和方向包括 `Daybreak`、`Drown in Abyss`，以及那首一口气混了四种风格的新年曲 `Dream Voyager`。
 
 ## 我不敲代码的时候
 
@@ -93,20 +93,31 @@
 - 是个偏宅的人。偶尔会出去乱逛，但更多时候还是喜欢窝着折腾自己喜欢的东西。
 - 很喜欢单机动作和 RPG，比如 `Sekiro`、`Elden Ring`、`Cyberpunk 2077`、`Hollow Knight`、`Hades`。
 - 也玩音游，比如 `DJMAX`。
--  `Minecraft` 牢玩家，属于那种隔一段时间就想回去开个档的人。
+- `Minecraft` 牢玩家，属于那种隔一段时间就想回去开个档的人。
 
 ## 最近博客更新
 
 <!-- BLOG-POST-LIST:START -->
-
+- [更新说明](https://acha.xx.kg/2026/03/29/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E%202026.3.29/)
+- [更新说明](https://acha.xx.kg/2026/03/11/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E%202026.3.11/)
+- [收拾，整理，以及翻新...](https://acha.xx.kg/2026/03/08/%E6%94%B6%E6%8B%BE%EF%BC%8C%E6%95%B4%E7%90%86%EF%BC%8C%E4%BB%A5%E5%8F%8A%E7%BF%BB%E6%96%B0/)
+- [新年快乐！！](https://acha.xx.kg/2024/12/31/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%81/)
+- [阿猹的自我介绍&amp;第一篇个人博客！](https://acha.xx.kg/2024/12/29/%E9%98%BF%E7%8C%B9%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D-%E7%AC%AC%E4%B8%80%E7%AF%87%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 这周代码时间扔哪去了
 
-> 这个区块会在接上 WakaTime 之后自动更新。
+> 最近一周都在写了些什么，会自动显示在这里。
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 02 April 2026 - To: 09 April 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
 <!--END_SECTION:waka-->
 
 ## GitHub 面板

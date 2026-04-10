@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2300&pause=80&color=7AA2F7&center=true&vCenter=true&multiline=true&width=900&height=90&lines=When+you+truly+want+something;All+the+universe+conspires+to+help+you+finish+it."
+    src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22When%20you%20truly%20want%20something%5CnAll%20the%20universe%20conspires%20to%20help%20you%20finish%20it.%22%7D%5D&font=Fira%20Code&color=%237AA2F7&width=900&height=90&fontSize=24&fontWeight=600&typingSpeed=0.06&deleteSpeed=0.02&pause=280&repeat=true&center=true&vCenter=true&border=false&backgroundOpacity=0&cursorStyle=straight&deletionBehavior=backspace"
     alt="Typing SVG"
   />
 </p>
@@ -23,8 +23,8 @@
 
 **阿猹是谁？**
 
-我是 `ACha_`，也可以直接叫我阿猹。湖北随州人，现在在西安读软件工程。  
-2007 年生，巨蟹座，`ENFJ-A`。虽然测出来是 E，但碰到不熟的人偶尔还是会先安静观察一下（
+我是 `ACha_`，也可以直接叫我阿猹。湖北随州人，现在在西北工业大学就读软件工程。  
+2007 年生，巨蟹座，`ENFJ-A`。虽然测出来是 E，但碰到不熟的人偶尔还是会秒变 I 人（
 
 **平时都在瞎折腾什么？**
 
@@ -50,9 +50,9 @@
 ## 我最近在搞什么
 
 - 在继续补 `Python` 和 `C` 的基础。`Python` 是我最早自学的编程语言，`C` 则是我大学第一门编程语言课。
-- 对 `AI / 深度学习 / 计算机视觉` 很有兴趣，平时会啃《动手学深度学习》，也会自己跑一点 `YOLOv8` 之类的实验。
+- 对 `AI / 深度学习 / 计算机视觉` 很有兴趣。
 - 把博客当自己的试验田，慢慢往里面塞评论、搜索、小游戏、工具页、自部署服务，还有各种能让我开心的小细节。
-- 写歌这件事也一直没停，虽然经常一边写一边怀疑人生（
+- 写歌这件事也一直没停，虽然经常一边写一边怀疑人生（？
 
 ## 项目和小破站
 
@@ -85,7 +85,7 @@
 - 从 `2020.03.15` 开始认真接触音乐制作，最早是从 `Undertale` Remix 和同人曲一路摸进来的。
 - 主要写 `EDM`，尤其喜欢 `Uplifting Trance`、`Progressive House`、`House`、`Melodic Bass`、`Liquid Drum 'n Bass` 和 `Euphoric Hardstyle`。
 - 有时候也会研究管弦编排，偶尔尝试写一点日文歌词。
-- 代表作和方向包括 `Daybreak`、`Drown in Abyss`、`渊溟潜鲸`，以及那首一口气混了四种风格的新年曲。
+- 代表作和方向包括 `Daybreak`、`Drown in Abyss`，以及那首一口气混了四种风格的新年曲`Dream Voyager`。
 
 ## 我不敲代码的时候
 
@@ -93,14 +93,12 @@
 - 是个偏宅的人。偶尔会出去乱逛，但更多时候还是喜欢窝着折腾自己喜欢的东西。
 - 很喜欢单机动作和 RPG，比如 `Sekiro`、`Elden Ring`、`Cyberpunk 2077`、`Hollow Knight`、`Hades`。
 - 也玩音游，比如 `DJMAX`。
-- 对 `Minecraft` 有点重度依赖，属于那种隔一段时间就想回去开个档的人。
+-  `Minecraft` 牢玩家，属于那种隔一段时间就想回去开个档的人。
 
 ## 最近博客更新
 
-> 这块准备接自动同步。等我把 RSS 喂好之后，它就会自己长出来。
-
 <!-- BLOG-POST-LIST:START -->
-- 施工中……先让我把博客的 feed 接上（
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 这周代码时间扔哪去了
@@ -108,9 +106,7 @@
 > 这个区块会在接上 WakaTime 之后自动更新。
 
 <!--START_SECTION:waka-->
-```txt
-施工中……等我把 WakaTime 和 GitHub Action 接好，这里就会自己动起来。
-```
+
 <!--END_SECTION:waka-->
 
 ## GitHub 面板
@@ -158,4 +154,4 @@
 ---
 
 如果你也喜欢音乐、前端、小工具、AI、自部署，或者只是想聊点奇奇怪怪的脑洞，欢迎来找我。  
-虽然我经常嘴上说自己菜，但我真的很乐意一起折腾。
+虽然我经常嘴上说自己菜，但我真的很乐意一起折腾！🥰

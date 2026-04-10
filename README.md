@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22When%20you%20truly%20want%20something%5CnAll%20the%20universe%20conspires%20to%20help%20you%20finish%20it.%22%2C%22typingSpeed%22%3A0.03%2C%22deleteSpeed%22%3A0.01%7D%5D&font=Fira%20Code&color=%2358A6FF&width=1150&height=130&fontSize=22&fontWeight=600&pause=160&letterSpacing=0.04em&repeat=true&center=true&vCenter=true&border=false&backgroundOpacity=0&cursorStyle=underline&deletionBehavior=backspace"
+    src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22When%20you%20truly%20want%20something%5CnAll%20the%20universe%20conspires%20to%20help%20you%20finish%20it.%22%2C%22typingSpeed%22%3A0.06%2C%22deleteSpeed%22%3A0.025%2C%22font%22%3A%22Fira%20Code%22%2C%22color%22%3A%22%2358A6FF%22%2C%22fontSize%22%3A22%2C%22fontWeight%22%3A600%7D%5D&width=1150&height=130&pause=4200&letterSpacing=0.04em&repeat=true&center=true&vCenter=true&border=false&backgroundOpacity=0&cursorStyle=underline&deletionBehavior=backspace"
     alt="Typing SVG"
   />
 </p>

@@ -112,12 +112,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2026 - To: 15 April 2026
+From: 09 April 2026 - To: 16 April 2026
 
-Total Time: 15 hrs 45 mins
+Total Time: 17 hrs 10 mins
 
-C             6 hrs 41 mins         >>>>>>>>>>>--------------   42.46 %
-Other         4 hrs 47 mins         >>>>>>>>-----------------   30.44 %
+C             6 hrs 41 mins         >>>>>>>>>>---------------   38.98 %
+Other         4 hrs 47 mins         >>>>>>>------------------   27.94 %
 ```
 
 <!--END_SECTION:waka-->

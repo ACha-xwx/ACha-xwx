@@ -112,13 +112,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2026 - To: 21 April 2026
+From: 15 April 2026 - To: 22 April 2026
 
-Total Time: 6 hrs 2 mins
+Total Time: 3 hrs 44 mins
 
-Python       3 hrs 7 mins          >>>>>>>>>>>>>------------   51.91 %
-TeX          1 hr 6 mins           >>>>>--------------------   18.40 %
-Other        38 mins               >>>----------------------   10.71 %
+Python       1 hr 10 mins          >>>>>>>>-----------------   31.27 %
+TeX          1 hr 6 mins           >>>>>>>------------------   29.65 %
+Other        25 mins               >>>----------------------   11.29 %
 ```
 
 <!--END_SECTION:waka-->

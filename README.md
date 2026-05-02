@@ -112,16 +112,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
-Total Time: 8 hrs 14 mins
+Total Time: 7 hrs 22 mins
 
-Python        4 hrs 1 min           >>>>>>>>>>>>-------------   48.85 %
-TeX           1 hr 44 mins          >>>>>--------------------   21.10 %
-C             41 mins               >>-----------------------   08.33 %
-Markdown      36 mins               >>-----------------------   07.32 %
-BibTeX        26 mins               >------------------------   05.30 %
-Lua           19 mins               >------------------------   03.99 %
+Python       3 hrs 47 mins         >>>>>>>>>>>>>------------   51.38 %
+TeX          1 hr 33 mins          >>>>>--------------------   21.16 %
+C            41 mins               >>-----------------------   09.30 %
+Markdown     36 mins               >>-----------------------   08.17 %
+BibTeX       26 mins               >------------------------   05.92 %
+PowerShell   17 mins               >------------------------   03.87 %
 ```
 
 <!--END_SECTION:waka-->

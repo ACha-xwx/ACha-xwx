@@ -98,11 +98,11 @@
 ## 最近博客更新
 
 <!-- BLOG-POST-LIST:START -->
+- [我有一个特别好的女朋友](https://acha.xx.kg/2026/05/16/%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E7%89%B9%E5%88%AB%E5%A5%BD%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B/)
+- [数模A题小记：把校园圈项目先跑起来！](https://acha.xx.kg/2026/05/16/%E6%95%B0%E6%A8%A1A%E9%A2%98%E5%B0%8F%E8%AE%B0-%E6%8A%8A%E6%A0%A1%E5%9B%AD%E5%9C%88%E9%A1%B9%E7%9B%AE%E5%85%88%E8%B7%91%E8%B5%B7%E6%9D%A5/)
+- [让Tinyhttpd跑起我的个人博客](https://acha.xx.kg/2026/05/16/%E8%AE%A9Tinyhttpd%E8%B7%91%E8%B5%B7%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
+- [提示词要不要讲礼貌：大创项目小记](https://acha.xx.kg/2026/05/16/%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A6%81%E4%B8%8D%E8%A6%81%E8%AE%B2%E7%A4%BC%E8%B2%8C%EF%BC%9A%E5%A4%A7%E5%88%9B%E9%A1%B9%E7%9B%AE%E5%B0%8F%E8%AE%B0/)
 - [更新说明](https://acha.xx.kg/2026/03/29/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E%202026.3.29/)
-- [更新说明](https://acha.xx.kg/2026/03/11/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E%202026.3.11/)
-- [收拾，整理，以及翻新...](https://acha.xx.kg/2026/03/08/%E6%94%B6%E6%8B%BE%EF%BC%8C%E6%95%B4%E7%90%86%EF%BC%8C%E4%BB%A5%E5%8F%8A%E7%BF%BB%E6%96%B0/)
-- [新年快乐！！](https://acha.xx.kg/2024/12/31/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%81/)
-- [阿猹的自我介绍&amp;第一篇个人博客！](https://acha.xx.kg/2024/12/29/%E9%98%BF%E7%8C%B9%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D-%E7%AC%AC%E4%B8%80%E7%AF%87%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 这周代码时间扔哪去了
